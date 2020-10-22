@@ -1,6 +1,7 @@
 [
   {
     "farm": {
+      "id": 1,
       "ktidb": "JU64464106",
       "farmName": "Burks Susan",
       "address": "Sunnyside Avenue 77, 6317 Bradenville",
@@ -60,44 +61,45 @@
       {
         "domain": "07 - PER",
         "inspector": "MEMBREZ Alain",
-        "percent": 19,
+        "percent": 100,
         "outcome": "Non",
         "isClosed": true,
-        "closeDate": "December 6, 2020 3:02 PM"
+        "closeDate": "25.10.20"
       },
       {
         "domain": "11 - PLVH",
         "inspector": "MEMBREZ Alain",
         "percent": 61,
-        "outcome": "P",
+        "outcome": "NA",
         "isClosed": false,
-        "closeDate": "May 14, 2020 11:07 AM"
+        "closeDate": ""
       },
       {
-        "domain": "11 - PLVH",
+        "domain": "IPS Exigences de base",
         "inspector": "MEMBREZ Alain",
         "percent": 92,
         "outcome": "NA",
         "isClosed": false,
-        "closeDate": "March 11, 2020 7:47 AM"
+        "closeDate": ""
       },
       {
         "domain": "12 - SST/SRPA",
         "inspector": "MEMBREZ Alain",
-        "percent": 66,
-        "outcome": "Non",
+        "percent": 100,
+        "outcome": "Oui",
         "isClosed": true,
-        "closeDate": "May 1, 2020 2:16 AM"
+        "closeDate": "25.10.2020"
       }
     ]
   },
   {
     "farm": {
+      "id": 2,
       "ktidb": "JU27474808",
       "farmName": "Mullen Rena",
       "address": "Main Street 88, 1467 Chestnut",
       "farmType": "Exploitation à l'année",
-      "farmTypeCode": 1, 
+      "farmTypeCode": 1,
       "email": "Welch.Guthrie@Applica.ch",
       "phoneNumber": "+41 (979) 461-3522"
     },
@@ -174,11 +176,12 @@
   },
   {
     "farm": {
+      "id": 3,
       "ktidb": "JU53997050",
       "farmName": "Malone Duke",
       "address": "Greenwood Avenue 87, 7254 Wacissa",
       "farmType": "Communauté simple",
-      "farmTypeCode": 6, 
+      "farmTypeCode": 6,
       "email": "Brianna.Villarreal@Nixelt.ch",
       "phoneNumber": "+41 (975) 435-2524"
     },
@@ -239,6 +242,7 @@
   },
   {
     "farm": {
+      "id": 4,
       "ktidb": "JU78835577",
       "farmName": "Cleveland Foster",
       "address": "Flatlands Avenue 13, 9745 Freeburn",
@@ -321,6 +325,7 @@
   },
   {
     "farm": {
+      "id": 5,
       "ktidb": "JU77377101",
       "farmName": "Hughes Woodard",
       "address": "Clove Road 39, 3217 Edgewater",
