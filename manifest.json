@@ -1,7 +1,7 @@
 {
   "name": "AcordaControl",
   "short_name": "AcordaControl",
-  "start_url": "./",
+  "start_url":"./AcordaControlOffline/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#03173d",
